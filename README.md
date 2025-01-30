@@ -13,7 +13,7 @@
 
 ### 3. **Unified Token Economy**
 - Transactions are powered by **$FTO (DunkVerse Token)**, which is equivalent to:
-  - 1 $MNT
+  - 1 $TLOS
 - Simplifies transactions on each chain and promotes ecosystem interoperability.
 
 ### 4. **Decentralized Betting Pool**
