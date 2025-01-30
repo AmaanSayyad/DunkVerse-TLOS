@@ -5,7 +5,7 @@ import { jsonRpcProvider } from 'wagmi/providers/jsonRpc';
 import { publicProvider } from 'wagmi/providers/public';
 
 const TelosTestnet = {
-  id: 5003,
+  id: 41,
   name: 'Telos EVM Testnet',
   network: 'TelosTestnet',
   nativeCurrency: {
