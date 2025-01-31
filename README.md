@@ -1,5 +1,8 @@
 # Dunk Verse
 
+## Pitch Video: https://youtu.be/ftdxWY2TbNQ
+## Demo Video: https://youtu.be/Cuoinu76q-o
+
 ## Features 🚀
 
 ### 1. **NFT-Powered Content**
